@@ -1,5 +1,5 @@
 ## About This App
-This is a functional To-Do List Application built with React during Day 5 of a 50 Days of React Udemy Course.
+React project made during Day 5 of "50 Days of React" by Sufa Digital Media on Udemy.
 This application allows you to create, save, manage, and delete different to-do list notes. Mainly using React State Management.
 
 ## How To Install
